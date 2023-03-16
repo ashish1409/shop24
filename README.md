@@ -29,10 +29,6 @@
   <img width="200" height="400"src="https://user-images.githubusercontent.com/17641451/225476482-d8fe6d65-4368-4989-a37c-d9d9e45e135b.png">
 </span>
 
-
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="https://user-images.githubusercontent.com/17641451/225478170-25b4a219-d3f1-4841-8983-8527f3302045.mp4" type="video/mp4" />
-  <img src="https://user-images.githubusercontent.com/17641451/225476389-db6c93d6-cd5a-47ef-822f-90fc4f9b82b4.png">
-</video>
+https://user-images.githubusercontent.com/17641451/225478170-25b4a219-d3f1-4841-8983-8527f3302045.mp4
 
 
